@@ -30,3 +30,5 @@
 - Seminar 大纲 → beamer/seminar-outline.md
 - Job Market Talk → beamer/job-market-talk.md
 - 幻灯片精简 → beamer/slide-tightening.md
+- 根据beamer制作授课文稿 → generate-lecture-script-template.md
+
