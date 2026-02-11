@@ -2,20 +2,6 @@
 
 ## 使用说明
 
-请在使用前替换以下变量：
-
-{{course_name}}             # 课程名称
-{{course_type}}             # 课程类型（如：导论课 / 预热课 / 正式课 / Seminar）
-{{total_duration}}          # 总授课时长（分钟）
-{{student_profile}}         # 学生背景（如：高中生 / 本科一年级 / 无经济学基础）
-{{class_size}}              # 学生人数
-{{tone_preference}}         # 语气偏好（如：轻松引导型 / 严谨学术型）
-{{special_notes}}           # 特殊要求（可选）
-
----
-
-例如：
-
 {{course_name}} = 劳动经济学
 {{course_type}} = 预热课
 {{total_duration}} = 90
