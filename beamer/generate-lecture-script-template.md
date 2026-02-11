@@ -14,6 +14,17 @@
 
 ---
 
+例如：
+
+{{course_name}} = 劳动经济学
+{{course_type}} = 预热课
+{{total_duration}} = 90
+{{student_profile}} = 两名无经济学基础的高中生
+{{class_size}} = 2
+{{tone_preference}} = 轻松引导型
+{{special_notes}} = 无
+
+
 ## Prompt
 
 我是一名 {{course_name}} 的教师，目前正在准备一节 {{course_type}}。
